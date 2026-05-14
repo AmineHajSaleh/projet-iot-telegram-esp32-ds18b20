@@ -20,7 +20,7 @@ Les commandes suivantes sont disponibles via l'application Telegram :
 * `/state` : Renvoie l'état actuel (ON/OFF) des deux LEDs.
 
 ## 🔌 Schéma Électrique
-![Schéma de câblage Fritzing/Wokwi](
+![Schéma de câblage Fritzing/Wokwi](https://github.com/AmineHajSaleh/projet-iot-telegram-esp32-ds18b20/blob/main/Screenshot%202026-05-14%20183111.png
 )
 
 ## 🚀 Installation et Utilisation
