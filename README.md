@@ -26,4 +26,6 @@ Les commandes suivantes sont disponibles via l'application Telegram :
 ## 🚀 Installation et Utilisation
 1. Cloner ce dépôt :
    ```bash
-   git clone [https://github.com/ton-pseudo/nom-du-repo.git](https://github.com/ton-pseudo/nom-du-repo.git)
+  1. Cloner ce dépôt :
+   ```bash
+   git clone [https://github.com/AmineHajSaleh/projet-iot-telegram-esp32-ds18b20.git](https://github.com/AmineHajSaleh/projet-iot-telegram-esp32-ds18b20.git)
